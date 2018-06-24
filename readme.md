@@ -11,3 +11,7 @@ MAIL_FROM_NAME=我是阿里邮件服务商
 ALI_MAIL_KEY=
 ALI_MAIL_SECRET=
 ```
+
+# 联系我
+
+![联系我](https://lab-api.guojianhang.top/image/微信二维码.jpg)
