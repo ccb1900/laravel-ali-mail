@@ -1,0 +1,24 @@
+{
+  "name": "ccb/laravel-ali-mail",
+  "description": "阿里邮件发送集成到laravel",
+  "keywords": ["laravel", "mail", "api"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ccb",
+      "email": "330316259@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ccb\\AliMail\\":"src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Ccb\\AliMail\\CcbAliMailServiceProvider"
+      ]
+    }
+  }
+}
